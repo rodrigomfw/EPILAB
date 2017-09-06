@@ -2,7 +2,7 @@ Module integrated in the EPILAB toolbox.
 
 1. Modifications were done to the already existing functions:
 
-  .. * Artificial_Neural_Networks_Data.m
+  * Artificial_Neural_Networks_Data.m
   * Artificial_Neural_Networks_Interface.m
 
 
